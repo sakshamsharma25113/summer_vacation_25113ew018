@@ -11,6 +11,6 @@ for(i=1;i<=n;i++)
 
 }
 printf("The sum of the %d natural number is %d ",n,sum);
-
+return 0;
 
 }

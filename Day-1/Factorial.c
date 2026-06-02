@@ -14,6 +14,6 @@ for(i=1;i<=n;i++)
 }
 
 printf("factorial of a %d is %d",n,fac);
-
+return 0;
 
 }
